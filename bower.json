@@ -1,7 +1,6 @@
 {
-    "name": "kbase-cdj-js",
-    "version": "1.0.0",
-    "main": "path/to/main.css",
+    "name": "kbase-cdn-js",
+    "main": "dist/bin/**/*",
     "ignore": [
         ".jshintrc",
         "**/*.txt"
